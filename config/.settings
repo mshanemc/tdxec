@@ -1,0 +1,18 @@
+{
+    "projectName": "TDXECTemplate",
+    "username": "shane@tdxec.workshop",
+    "id": "58317970-5d00-11e7-82e8-cbd675688b59",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://dx17emp-comm.my.salesforce.com",
+    "workspace": "/Users/shane.mclaughlin/code",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "StaticResource"
+    ]
+}

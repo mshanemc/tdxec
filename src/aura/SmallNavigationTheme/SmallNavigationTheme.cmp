@@ -1,0 +1,31 @@
+<aura:component implements="forceCommunity:themeLayout" access="global" description="Example Custom Theme Layout">
+    <aura:attribute name="search" type="Aura.Component[]" required="false"/>
+    <aura:attribute name="profileMenu" type="Aura.Component[]" required="false"/>
+    <aura:attribute name="navBar" type="Aura.Component[]" required="false"/>
+    <aura:attribute name="newHeader" type="Aura.Component[]" required="false"/>
+    
+    <div>
+        <!--resuse profile and nav components-->
+        <div class="profileMenuRegion">
+            {!v.profileMenu}
+        </div>
+        <div class="navigation">
+            {!v.navBar}
+        </div>        
+    </div>
+    <div>
+        <div class="mainContentArea">
+            {!v.body}
+        </div>
+    </div>
+    <!-- move header and search to the bottom...because we can!-->
+    <div>
+        <div class="newHeader">
+            {!v.newHeader}
+        </div>
+        <div class="searchRegion">
+            {!v.search}
+        </div>
+    </div>
+    
+</aura:component>

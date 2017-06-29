@@ -1,0 +1,44 @@
+{
+    "SmallNavigationTheme/SmallNavigationTheme.css.undefined": {
+        "createdById": "005f4000000ky4OAAQ",
+        "createdByName": "Shane McLaughlin",
+        "createdDate": "2017-06-23T22:01:46.000Z",
+        "fileName": "unpackaged/aura/SmallNavigationTheme/SmallNavigationTheme.css",
+        "fullName": "SmallNavigationTheme/SmallNavigationTheme.css",
+        "id": "0Adf40000008U6yCAE",
+        "lastModifiedById": "005f4000000ky4OAAQ",
+        "lastModifiedByName": "Shane McLaughlin",
+        "lastModifiedDate": "2017-06-24T15:19:48.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "SmallNavigationTheme/SmallNavigationTheme.design.undefined": {
+        "createdById": "005f4000000ky4OAAQ",
+        "createdByName": "Shane McLaughlin",
+        "createdDate": "2017-06-23T21:55:51.000Z",
+        "fileName": "unpackaged/aura/SmallNavigationTheme/SmallNavigationTheme.design",
+        "fullName": "SmallNavigationTheme/SmallNavigationTheme.design",
+        "id": "0Adf40000008U65CAE",
+        "lastModifiedById": "005f4000000ky4OAAQ",
+        "lastModifiedByName": "Shane McLaughlin",
+        "lastModifiedDate": "2017-06-23T21:56:19.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "SmallNavigationTheme/SmallNavigationTheme.cmp.undefined": {
+        "createdById": "005f4000000ky4OAAQ",
+        "createdByName": "Shane McLaughlin",
+        "createdDate": "2017-06-23T21:54:33.000Z",
+        "fileName": "unpackaged/aura/SmallNavigationTheme/SmallNavigationTheme.cmp",
+        "fullName": "SmallNavigationTheme/SmallNavigationTheme.cmp",
+        "id": "0Adf40000008U60CAE",
+        "lastModifiedById": "005f4000000ky4OAAQ",
+        "lastModifiedByName": "Shane McLaughlin",
+        "lastModifiedDate": "2017-06-23T22:24:34.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    }
+}
